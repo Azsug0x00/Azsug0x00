@@ -1,6 +1,6 @@
 # Hello, I'm Gus 👋
 
-<img src="https://cdn.dribbble.com/userupload/33219605/file/original-3e652baea723121800ca0068452af00e.gif" width="200"/>
+<img src="https://cdn.dribbble.com/users/2395254/screenshots/6974793/robot.gif" width="200"/>
 
 
 
