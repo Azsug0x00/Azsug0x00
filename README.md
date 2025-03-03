@@ -1,9 +1,4 @@
 # Hello, I'm Gus 👋
-
-<img src="https://cdn.dribbble.com/users/2395254/screenshots/6974793/robot.gif" width="200"/>
-
-
-
 <!--
 **Azsug0x00/Azsug0x00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
