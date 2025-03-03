@@ -1,6 +1,7 @@
-# Hello, I'm [Gus] 👋
+# Hello, I'm Gus 👋
 
-![Robot Arm](https://cdn.dribbble.com/userupload/33219605/file/original-3e652baea723121800ca0068452af00e.gif)
+<img src="https://cdn.dribbble.com/userupload/33219605/file/original-3e652baea723121800ca0068452af00e.gif" width="200"/>
+
 
 
 <!--
