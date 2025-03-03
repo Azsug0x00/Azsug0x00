@@ -1,5 +1,7 @@
-## สวัสดีครับ ผมชื่อกัส
-ใช้ Github เพื่อสะสมผลงาน
+# Hello, I'm [Gus] 👋
+
+![Robot Arm](https://path-to-your-image/robot-arm.svg)
+
 
 <!--
 **Azsug0x00/Azsug0x00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
