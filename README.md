@@ -1,6 +1,6 @@
 # Hello, I'm [Gus] 👋
 
-![Robot Arm](https://path-to-your-image/robot-arm.svg)
+![Robot Arm](https://cdn.dribbble.com/userupload/33219605/file/original-3e652baea723121800ca0068452af00e.gif)
 
 
 <!--
